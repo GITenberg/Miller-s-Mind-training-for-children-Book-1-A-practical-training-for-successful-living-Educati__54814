@@ -1,11 +1,16 @@
 _repo: Miller-s-Mind-training-for-children-Book-1-A-practical-training-for-successful-living-Educati__54814
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54814-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, William E.
     gutenberg_agent_id: '48055'
     url: http://www.gutenberg.org/2009/agents/48055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54814#Miller-s-Mind-training-for-children-Book-1-A-practical-training-for-successful-living-Educati_
 gutenberg_issued: '2017-05-30'
 gutenberg_type: Text
 identifiers:
